@@ -1,3 +1,3 @@
 #a tiny particle system on GPU
 
-![](./pic/particle.jpg =80*80)
+![](./pic/particle2.jpg =80*80)
